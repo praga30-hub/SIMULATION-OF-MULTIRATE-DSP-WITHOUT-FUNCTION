@@ -8,7 +8,7 @@ To perform and verify multirate DSP without function using SCILAB.
 PC installed with SCILAB. 
 
 ## PROGRAM : 
-```
+```scilab
 clc;
 close;
 n = 0:%pi/50:2*%pi;
